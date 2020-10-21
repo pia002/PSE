@@ -1,3 +1,7 @@
 # PSE
 
-System.out.println("Wie geht es Ihnen heute?);
+Hello World
+
+System.out.println("Hello");
+
+System.out.print("Heute ist Donnerstag");
